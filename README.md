@@ -57,4 +57,4 @@ Feel free to explore the notebook and use the insights for your own projects. Co
 
 ## 📬 Contact
 
-For any queries or suggestions, please feel free to contact me at [your.kavindu.kasthu@gmail.com](mailto:kavindu.kasthu@gmail.com).
+For any queries or suggestions, please feel free to contact me at [kavindu.kasthu@gmail.com](mailto:kavindu.kasthu@gmail.com).
